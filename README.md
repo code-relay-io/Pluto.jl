@@ -1,4 +1,12 @@
+# Task #1
 
+https://github.com/fonsp/Pluto.jl/issues/1001
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+If you don't finish, add your next task to the readme.md. Oh and when you're done make a pull request to the this repo.
+
+Email with questions
 
 <blockquote>
 <a href="https://plutojl.org/plutocon2021"><img align="right" src=https://user-images.githubusercontent.com/6933510/111311607-b49a7000-865e-11eb-9c67-dd411b832096.png height="130px"></a>
